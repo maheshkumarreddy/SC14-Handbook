@@ -1,7 +1,8 @@
 
-# ** HTML **
+# HTML 
 
 ----
+
 
 ## What is HTML? 
 
