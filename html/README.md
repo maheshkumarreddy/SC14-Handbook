@@ -49,11 +49,9 @@
 
 >16.[Forms](http://www.w3schools.com/html/html_forms.asp)
 
->17.[Colors](http://www.w3schools.com/html/html_colors.asp)
+>17.[Color Names](http://www.w3schools.com/html/html_colornames.asp)
 
->18.[Color Names](http://www.w3schools.com/html/html_colornames.asp)
-
->19.[HTML5](http://www.w3schools.com/html/html5_intro.asp)
+>18.[HTML5](http://www.w3schools.com/html/html5_intro.asp)
 
 
 ---
