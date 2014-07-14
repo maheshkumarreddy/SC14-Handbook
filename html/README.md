@@ -59,6 +59,17 @@
 
 ---
 
+>##Use of HTML
+
+---
+
+-  It forms the skeleton system of your webpage.
+-  It's elements form the building blocks of all websites.
+-  It allows images and objects to be embedded and can be used to create interactive forms. 
+- It provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. 
+- It can embed scripts written in languages such as JavaScript which affect the behavior of HTML web pages.
+
+
 
 >##Additional Links
 >- Video Tutorials
