@@ -1,13 +1,14 @@
 
-# ** CSS **
+# CSS 
 
 ----
 
 ## What is CSS? 
 
 -  Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language. 
--  CSS is most often used to style web pages and user interfaces written in HTML and XHTML, the language can be applied to any kind of XML document, including plain XML, SVG and XUL. 
 -  CSS is a cornerstone specification of the web and almost all web pages use CSS style sheets to describe their presentation.
+-  CSS is most often used to style web pages and user interfaces written in HTML and XHTML, the language can be applied to any kind of XML document, including plain XML, SVG and XUL. 
+
 ----
 
 ## What is the use of CSS?
