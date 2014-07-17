@@ -1,0 +1,32 @@
+<h1>Exercise</h1>
+<ul>
+    <li>"hello world"<ol>
+    <li>Print  the words "Hello World" to the terminal.
+ 	<li>Next, make a simple HTTP server that responds to every request with the plain text message "Hello World"
+    <li>Respond to all TCP connections with the message "Hello World" and then close the connection.
+    </ol>
+    </li>
+    
+    <li>Create an Online Shopping website and give overall discounts based on the total items selected by the user(you are free to do built your website of any design)<br/>
+    <li>Built an online admission website and limit the number of intakes and select the students based on their ranking and extra-curricular activities.<br/>
+    <li>Combine your knowledge of webforms, HTML, CSS, Javascript and NodeJS to create an interactive chart builder.<br/>
+    <li> Build a student online attadence website and give a list of students who have
+    <ul>
+    <li>100% attadence</li>
+    <li>between 85% to 100%</li>
+    <li>between 75% to 85%</li>
+    <li>less than 75%</li>
+    </ul>
+</li><br/>
+
+<li>Built a online student ranking system and award ranks based on the following:
+    <ul>
+    <li> the one with the best marks gets the top rank</li>
+    <li> if the marks are same, then give priority as follows</li>
+        <ul>
+        <li>maths</li>
+        <li>physics</li>
+        <li>chemistry</li>
+        </ul>
+    </ul>
+</li>

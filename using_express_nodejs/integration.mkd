@@ -1,0 +1,50 @@
+<h1>Integration of MongoDB and NodeJS</h1>
+<h3>What is Node.JS</h3>
+<ul>
+<li>Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. 
+<li>Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient
+<li> perfect for data-intensive real-time applications that run across distributed devices.
+</ul>
+<hr/>
+<h3>What is MongoDB</h3>
+<ul>
+<li>
+MongoDB is a cross-platform document-oriented database.
+<li> Classified as a NoSQL database MongoDB eschews the traditional table-based relational database structure in favor of JSON-like documents with dynamic schemas
+<li>makes the integration of data in certain types of applications easier and faster.
+ <li>Released under a combination of the GNU Affero General Public License and the Apache License, MongoDB is free and open-source software.
+</ul>
+<hr/>
+<h3>Requirements</h3>
+<ul>
+<li>Understanding of basic web development
+<li>Understanding of javascript
+</ul>
+<h3>Contents</h3>
+<ol>
+     <li><a href="http://mongodb.github.io/node-mongodb-native/api-generated/mongoclient.html">  mongo client</a></li>
+     <li><a href="http://mongodb.github.io/node-mongodb-native/contents.html"> Database</a></li>
+     <li><a href="http://mongodb.github.io/node-mongodb-native/api-generated/collection.html">collection</a></li>
+     <li><a href="http://mongodb.github.io/node-mongodb-native/api-generated/grid.html">grid functions</li>
+     <li><a href=" http://mongodb.github.io/node-mongodb-native/api-generated/cursor.html">Cursor functions</a></li>
+     <li>datatypes</li> 
+    <ol>
+        <li><a href=" http://mongodb.github.io/node-mongodb-native/api-bson-generated/binary.html"> Binary</a></li>
+        <li><a href=" http://mongodb.github.io/node-mongodb-native/api-bson-generated/code.html"> Code</a></li>
+        <li><a href=" http://mongodb.github.io/node-mongodb-native/api-bson-generated/double.html">Double</a></li>
+        <li><a href="http://mongodb.github.io/node-mongodb-native/api-bson-generated/long.html"> Long</a></li>
+    </ol>
+    </li>
+ </ol>
+  <hr/>
+ <h3>References</h3>
+ <ul>
+ <li>http://howtonode.org/node-js-and-mongodb-getting-started-with-mongojs
+<li>http://www.smashingmagazine.com/2014/05/22/detailed-introduction-nodejs-mongodb/
+<li>http://codehenge.net/blog/2012/10/screencast-node-js-and-mongodb-using-mongojs/
+<li>http://mongodb.github.io/node-mongodb-native/
+<li>https://www.npmjs.org/package/mongodb
+<li>http://www.tutorialized.com/tutorial/Creating-Application-with-Angular.js-Node.js-and-MongoDB-MongoJS-Module/81477
+</ul>
+
+

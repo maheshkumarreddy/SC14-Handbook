@@ -1,0 +1,67 @@
+<h1>MONGODB</h1>
+<h3>Introduction</h3>
+<ul>
+<li>
+MongoDB is a cross-platform document-oriented database.
+<li> Classified as a NoSQL database MongoDB eschews the traditional table-based relational database structure in favor of JSON-like documents with dynamic schemas
+<li>makes the integration of data in certain types of applications easier and faster.
+ <li>Released under a combination of the GNU Affero General Public License and the Apache License, MongoDB is free and open-source software.
+</ul>
+<hr/>
+<h3>Contents</h3>
+<ol>
+    <li>Installation</li> 
+    <ol>
+        <li><a href=" http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/"> installation on ubuntu</a></li>
+        <li><a href=" http://docs.mongodb.org/manual/tutorial/install-mongodb-on-linux/"> installation on other linux systems</a></li>
+    </ol>
+    </li>       
+     <li><a href="http://www.tutorialspoint.com/mongodb/mongodb_overview.htm"> Overview</a></li>
+     <li><a href=" http://www.tutorialspoint.com/mongodb/mongodb_advantages.htm"> Advantages</a></li>
+     <li>Data modeling</li> 
+    <ol>
+        <li><a href=" http://docs.mongodb.org/manual/core/data-modeling-introduction/"> Introduction</a></li>
+        <li><a href="  http://docs.mongodb.org/manual/core/data-models/"> Concepts</a></li>
+        <li><a href=" http://docs.mongodb.org/manual/applications/data-models/">Data Model Examples and Patterns</a></li>
+        <li><a href=" http://docs.mongodb.org/manual/reference/data-models/"> Data Model Reference</a></li>
+    </ol>
+    </li>
+    <li><a href=" http://www.tutorialspoint.com/mongodb/mongodb_datatype.htm">Datatypes</a></li>
+    <li>Database operations</li> 
+    <ol>
+        <li><a href=" http://www.tutorialspoint.com/mongodb/mongodb_create_database.htm"> Create database</a></li>
+        <li><a href=" http://www.tutorialspoint.com/mongodb/mongodb_drop_database.htm"> Drop database</a></li>
+        <li><a href=" http://www.tutorialspoint.com/mongodb/mongodb_create_collection.htm">Create collection</a></li>
+        <li><a href=" http://www.tutorialspoint.com/mongodb/mongodb_drop_collection.htm"> Drop collection</a></li>
+    </ol>
+    </li>
+    <li>operations on the document</li> 
+    <ol>
+        <li><a href=" http://www.tutorialspoint.com/mongodb/mongodb_insert_document.htm"> Insert document</a></li>
+        <li><a href=" http://www.tutorialspoint.com/mongodb/mongodb_query_document.htm"> Query document</a></li>
+        <li><a href=" http://www.tutorialspoint.com/mongodb/mongodb_update_document.htm">Update document</a></li>
+        <li><a href=" http://www.tutorialspoint.com/mongodb/mongodb_delete_document.htm"> Delete document</a></li>
+    </ol>
+    </li>
+    <li><a href="http://www.tutorialspoint.com/mongodb/mongodb_projection.htm"> Projection</a></li>
+   <li>Records</li> 
+    <ol>
+        <li><a href=" http://www.tutorialspoint.com/mongodb/mongodb_limit_record.htm"> Limiting records</a></li>
+        <li><a href="http://www.tutorialspoint.com/mongodb/mongodb_sort_record.htm"> Sorting records</a></li>
+     </ol>
+    </li>
+        <li><a href="http://www.tutorialspoint.com/mongodb/mongodb_indexing.htm"> Indexing</a></li>
+         <li><a href="http://www.tutorialspoint.com/mongodb/mongodb_aggregation.htm"> Aggregation</a></li>
+          <li><a href="http://www.tutorialspoint.com/mongodb/mongodb_replication.htm">replication</a></li>
+           <li><a href="http://www.tutorialspoint.com/mongodb/mongodb_create_backup.htm"> Create Backup</a></li> 
+           <li><a href="http://www.tutorialspoint.com/mongodb/mongodb_capped_collections.htm">Capped collection</a></li>
+ </ol>
+ <hr/>
+ <h3>References</h3>
+ <ul>
+ <li>http://www.mongodb.org/
+<li>http://try.mongodb.org/
+<li>https://university.mongodb.com/
+</ul>
+
+

@@ -1,0 +1,13 @@
+<h1>Exercise</h1>
+<ul>
+    <li>"hello world"<ol>
+    <li>Print  the words "Hello World" to the terminal.
+ 	<li>Next, make a simple HTTP server that responds to every request with the plain text message "Hello World"
+    <li>Respond to all TCP connections with the message "Hello World" and then close the connection.
+    </ol>
+    </li>
+    
+    <li>Create an Online Shopping website and give overall discounts based on the total items selected by the user(you are free to do built your website of any design)
+    <li>Built an online admission website and limit the number of intakes and select the students based on their ranking and extra-curricular activities.
+    <li>Combine your knowledge of webforms, HTML, CSS, Javascript and NodeJS to create an interactive chart builder.
+

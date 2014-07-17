@@ -1,0 +1,30 @@
+<h1>Exercise</h1>
+<ul>
+<li> Build a student online attadence website and give a list of students who have
+    <ul>
+    <li>100% attadence</li>
+    <li>between 85% to 100%</li>
+    <li>between 75% to 85%</li>
+    <li>less than 75%</li>
+    </ul>
+</li><br/>
+
+<li>Built a online student ranking system and award ranks based on the following:
+    <ul>
+    <li> the one with the best marks gets the top rank</li>
+    <li> if the marks are same, then give priority as follows</li>
+        <ul>
+        <li>maths</li>
+        <li>physics</li>
+        <li>chemistry</li>
+        </ul>
+    </ul>
+</li><br/>
+
+<li>Fetch a student's details from a student database based on:
+    <ul>
+    <li>registration number </li>
+    <li>combination of students name and fathers name</li>
+    <li>rank</li>
+   </ul> </li><br/>
+     
